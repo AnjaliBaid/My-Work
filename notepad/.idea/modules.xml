@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Myproj.iml" filepath="$PROJECT_DIR$/../Myproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../activity-lyfcycle/activity-lyfcycle.iml" filepath="$PROJECT_DIR$/../activity-lyfcycle/activity-lyfcycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../activity_stste_management/activity_stste_management.iml" filepath="$PROJECT_DIR$/../activity_stste_management/activity_stste_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alarmclock/alarmclock.iml" filepath="$PROJECT_DIR$/../alarmclock/alarmclock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../animationview/animationview.iml" filepath="$PROJECT_DIR$/../animationview/animationview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../application/application.iml" filepath="$PROJECT_DIR$/../application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../applicationlib/applicationlib.iml" filepath="$PROJECT_DIR$/../applicationlib/applicationlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/../broadcastreceiver/broadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../compoundview/compoundview.iml" filepath="$PROJECT_DIR$/../compoundview/compoundview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/../contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../custom_notification/custom_notification.iml" filepath="$PROJECT_DIR$/../custom_notification/custom_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../customview/customview.iml" filepath="$PROJECT_DIR$/../customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dialog_notification/dialog_notification.iml" filepath="$PROJECT_DIR$/../dialog_notification/dialog_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../external_storage/external_storage.iml" filepath="$PROJECT_DIR$/../external_storage/external_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../externalizeresources/externalizeresources.iml" filepath="$PROJECT_DIR$/../externalizeresources/externalizeresources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../first-task/first-task.iml" filepath="$PROJECT_DIR$/../first-task/first-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fragement/fragement.iml" filepath="$PROJECT_DIR$/../fragement/fragement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grid_view/grid_view.iml" filepath="$PROJECT_DIR$/../grid_view/grid_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../handleruntimechanges/handleruntimechanges.iml" filepath="$PROJECT_DIR$/../handleruntimechanges/handleruntimechanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../handleruntimechanges2/handleruntimechanges2.iml" filepath="$PROJECT_DIR$/../handleruntimechanges2/handleruntimechanges2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../http/http.iml" filepath="$PROJECT_DIR$/../http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../intent_and_intentfilters/intent_and_intentfilters.iml" filepath="$PROJECT_DIR$/../intent_and_intentfilters/intent_and_intentfilters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../interactivity/interactivity.iml" filepath="$PROJECT_DIR$/../interactivity/interactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../internal_storage/internal_storage.iml" filepath="$PROJECT_DIR$/../internal_storage/internal_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jsonparsing/jsonparsing.iml" filepath="$PROJECT_DIR$/../jsonparsing/jsonparsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../linearlayout/linearlayout.iml" filepath="$PROJECT_DIR$/../linearlayout/linearlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../listview/listview.iml" filepath="$PROJECT_DIR$/../listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../listview2/listview2.iml" filepath="$PROJECT_DIR$/../listview2/listview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../login/login.iml" filepath="$PROJECT_DIR$/../login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytask1/mytask1.iml" filepath="$PROJECT_DIR$/../mytask1/mytask1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notepad.iml" filepath="$PROJECT_DIR$/notepad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../record/record.iml" filepath="$PROJECT_DIR$/../record/record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../runtimepermission/runtimepermission.iml" filepath="$PROJECT_DIR$/../runtimepermission/runtimepermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../screenlock/screenlock.iml" filepath="$PROJECT_DIR$/../screenlock/screenlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service/service.iml" filepath="$PROJECT_DIR$/../service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shared_prefernces/shared_prefernces.iml" filepath="$PROJECT_DIR$/../shared_prefernces/shared_prefernces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlite/sqlite.iml" filepath="$PROJECT_DIR$/../sqlite/sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../status_bar_notification/status_bar_notification.iml" filepath="$PROJECT_DIR$/../status_bar_notification/status_bar_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../storage/storage.iml" filepath="$PROJECT_DIR$/../storage/storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../task07_06_2017/task07_06_2017.iml" filepath="$PROJECT_DIR$/../task07_06_2017/task07_06_2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../task2/task2.iml" filepath="$PROJECT_DIR$/../task2/task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../toast/toast.iml" filepath="$PROJECT_DIR$/../toast/toast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ui_thread/ui_thread.iml" filepath="$PROJECT_DIR$/../ui_thread/ui_thread.iml" />
+    </modules>
+  </component>
+</project>

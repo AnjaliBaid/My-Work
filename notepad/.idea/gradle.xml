@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../activity-lyfcycle" />
+            <option value="$PROJECT_DIR$/../activity_stste_management" />
+            <option value="$PROJECT_DIR$/../alarmclock" />
+            <option value="$PROJECT_DIR$/../animationview" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../application" />
+            <option value="$PROJECT_DIR$/../applicationlib" />
+            <option value="$PROJECT_DIR$/../broadcastreceiver" />
+            <option value="$PROJECT_DIR$/../compoundview" />
+            <option value="$PROJECT_DIR$/../contentprovider" />
+            <option value="$PROJECT_DIR$/../custom_notification" />
+            <option value="$PROJECT_DIR$/../customview" />
+            <option value="$PROJECT_DIR$/../dialog_notification" />
+            <option value="$PROJECT_DIR$/../external_storage" />
+            <option value="$PROJECT_DIR$/../externalizeresources" />
+            <option value="$PROJECT_DIR$/../first-task" />
+            <option value="$PROJECT_DIR$/../fragement" />
+            <option value="$PROJECT_DIR$/../grid_view" />
+            <option value="$PROJECT_DIR$/../handleruntimechanges" />
+            <option value="$PROJECT_DIR$/../handleruntimechanges2" />
+            <option value="$PROJECT_DIR$/../http" />
+            <option value="$PROJECT_DIR$/../intent_and_intentfilters" />
+            <option value="$PROJECT_DIR$/../interactivity" />
+            <option value="$PROJECT_DIR$/../internal_storage" />
+            <option value="$PROJECT_DIR$/../jsonparsing" />
+            <option value="$PROJECT_DIR$/../linearlayout" />
+            <option value="$PROJECT_DIR$/../listview" />
+            <option value="$PROJECT_DIR$/../listview2" />
+            <option value="$PROJECT_DIR$/../login" />
+            <option value="$PROJECT_DIR$/../mytask1" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../record" />
+            <option value="$PROJECT_DIR$/../runtimepermission" />
+            <option value="$PROJECT_DIR$/../screenlock" />
+            <option value="$PROJECT_DIR$/../service" />
+            <option value="$PROJECT_DIR$/../shared_prefernces" />
+            <option value="$PROJECT_DIR$/../sqlite" />
+            <option value="$PROJECT_DIR$/../status_bar_notification" />
+            <option value="$PROJECT_DIR$/../storage" />
+            <option value="$PROJECT_DIR$/../task07_06_2017" />
+            <option value="$PROJECT_DIR$/../task2" />
+            <option value="$PROJECT_DIR$/../toast" />
+            <option value="$PROJECT_DIR$/../ui_thread" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
